@@ -1,4 +1,4 @@
-The database represents the delegation details of top-level domains
+This Data Package contains the delegation details of top-level domains
 
 ##Data
 
